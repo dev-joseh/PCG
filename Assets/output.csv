@@ -1,0 +1,129 @@
+codigo,nome,creditos,turma,oferecidas_veteranos,oferecidas_calouros,vagas_ampliadas,ocupadas_veteranos,ocupadas_calouros,horarios,locais,professores
+ADM01134,ADMINISTRAÇÃO E FINANÇAS,4,A,1,0,0,0,0,13:30,sala de aula 055 - Campus: Centro;,CARLA SIMONE RUPPENTHAL
+MAT01355,ÁLGEBRA LINEAR I - A,4,A1,25,0,0,25,0,10:10; 10:10,Sala 101 - Campus: Vale                    ; Sala 101 - Campus: Vale,WAGNER DE OLIVEIRA CORTES
+,,,B2,6,0,1,7,0,10:30; 10:30,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,LEANDRO FARINA
+,,,C2,24,0,0,12,0,13:30; 13:30,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,LEANDRO FARINA
+,,,D1,5,0,0,1,0,15:30; 15:30,Sala 101 - Campus: Vale                    ; Sala 101 - Campus: Vale,ALVERI ALVES SANT ANA
+,,,D2,25,0,0,20,0,15:30; 15:30,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,Thaisa Raupp Tamusiunas
+INF01202,ALGORÍTMOS E PROGRAMAÇÃO - CIC,6,A,3,4,0,3,4,13:30; 13:30; 13:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 104 - PRÉDIO 43425 - Campus: Vale,MARCELO WALTER
+,,,B,0,10,0,0,10,13:30; 13:30; 15:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 104 - PRÉDIO 43425 - Campus: Vale,MARCELO WALTER
+,,,D,4,2,0,5,2,15:30; 15:30; 15:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; ABORATÓRIO DE ENSINO (INTRODUTÓRIAS) 103 - PRÉDIO 43425 - Campus: Vale,DENNIS GIOVANI BALREIRA
+,,,E,2,4,0,3,5,13:30; 13:30; 13:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 104 - PRÉDIO 43425 - Campus: Vale,LUCAS MELLO SCHNORR
+,,,F,6,2,0,5,2,13:30; 13:30; 15:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 104 - PRÉDIO 43425 - Campus: Vale,LUCAS MELLO SCHNORR
+,,,G,6,6,0,9,6,15:30; 15:30; 13:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale,RENAN DE QUEIROZ MAFFEI
+,,,H,10,0,0,4,0,15:30; 15:30; 15:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale,RENAN DE QUEIROZ MAFFEI
+INF01017,APRENDIZADO DE MÁQUINA,4,U,20,0,0,16,0,10:30; 10:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,MARIANA RECAMONDE MENDOZA GUERREIRO
+INF01108,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES I,4,A,33,0,0,33,0,10:30; 10:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,SERGIO LUIS CECHIN
+,,,B,20,0,0,18,0,15:30; 15:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,MARCELO DE OLIVEIRA JOHANN
+,,,C,20,0,0,20,0,10:30; 10:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,Mateus Grellert da Silva
+INF01112,ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES II,4,A,25,0,0,25,0,13:30; 13:30,AUDITÓRIO 0 - Campus: Vale                    ; AUDITÓRIO 0 - Campus: Vale,Arthur Francisco Lorenzon
+,,,B,25,0,0,9,0,15:30; 15:30,AUDITÓRIO 0 - Campus: Vale                    ; AUDITÓRIO 0 - Campus: Vale,JOAO CESAR NETTO
+INF01191,ARQUITETURAS AVANÇADAS DE COMPUTADORES,4,U,10,0,0,10,0,10:10; 10:10,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,ANTONIO CARLOS SCHNEIDER BECK FILHO
+INF01146,AVALIAÇÃO DE DESEMPENHO,4,U,10,0,0,14,0,10:30; 10:30,SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale,LUCIANO PASCHOAL GASPARY
+INF05018,BIOLOGIA COMPUTACIONAL,4,U,18,0,0,23,0,13:30; 13:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,MARCIO DORN
+INF01205,CAD PARA SISTEMAS DIGITAIS,4,U,15,0,0,0,0,13:30; 13:30,Sala de Aula 108 - 43413 - Campus: Vale                    ; Sala de Aula 108 - 43413 - Campus: Vale,ANDRE INACIO REIS
+MAT01353,CÁLCULO E GEOMETRIA ANALÍTICA I - A,6,A1,6,19,0,7,19,10:10; 10:10; 10:10,Sala 101 - Campus: Vale                    ; Sala 101 - Campus: Vale                    ; Sala 101 - Campus: Vale,JOSE AFONSO BARRIONUEVO
+,,,A2,5,0,3,7,0,10:10; 10:10; 10:10,Sala 103 - Campus: Vale                    ; Sala 103 - Campus: Vale                    ; Sala 103 - Campus: Vale,JOANA MOHR
+,,,B2,7,1,0,15,1,10:30; 10:30; 10:30,stituto de Química - Sala de Aula - Campus: Vale                    ; stituto de Química - Sala de Aula - Campus: Vale                    ; stituto de Química - Sala de Aula - Campus: Vale,JOSE AFONSO BARRIONUEVO
+,,,D2,18,7,0,16,8,15:30; 15:30; 15:30,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,FLAVIA MALTA BRANCO
+MAT01354,CÁLCULO E GEOMETRIA ANALÍTICA II - A,6,A1,59,0,0,52,0,10:10; 10:10; 10:10,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,JACQUES AVELINE LOUREIRO DA SILVA
+,,,A2,0,0,4,4,0,10:10; 10:10; 10:10,Sala 104 - Campus: Vale                    ; Sala 104 - Campus: Vale                    ; Sala 104 - Campus: Vale,VIRGINIA MARIA RODRIGUES
+,,,A3,2,0,4,6,0,10:10; 10:10; 10:10,Sala 105 - Campus: Vale                    ; Sala 105 - Campus: Vale                    ; Sala 105 - Campus: Vale,RICARDO MISTURINI
+,,,C1,5,0,0,4,0,13:30; 13:30; 13:30,Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale                    ; Sala 102 - Campus: Vale,Wanderley Nunes Do Nascimento
+,,,C2,2,0,3,5,0,13:30; 13:30; 13:30,Sala 104 - Campus: Vale                    ; Sala 104 - Campus: Vale                    ; Sala 104 - Campus: Vale,JULIO CESAR LOMBALDO FERNANDES
+MAT01032,CÁLCULO NUMÉRICO A,4,U,43,0,0,41,0,13:30; 13:30,s: Vale                    ; s: Vale,RUDNEI DIAS DA CUNHA
+INF01058,CIRCUITOS DIGITAIS,4,A,13,0,0,13,0,10:30; 10:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,ANDRE INACIO REIS
+,,,B,15,0,0,16,0,10:10; 10:10,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,Marcello da Rocha Macarthy
+,,,C,14,0,3,18,0,10:30; 10:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,RENATO PEREZ RIBAS
+INF01124,CLASSIFICAÇÃO E PESQUISA DE DADOS,4,A,20,0,0,20,0,10:30; 10:30,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,JOAO LUIZ DIHL COMBA
+,,,B,19,0,0,14,0,13:30; 13:30,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,LEANDRO KRUG WIVES
+INF01147,COMPILADORES,4,A,27,0,0,27,0,15:30; 15:30,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,LUCAS MELLO SCHNORR
+,,,B,27,0,0,24,0,10:30; 10:30,SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale,MARCELO DE OLIVEIRA JOHANN
+INF05515,COMPLEXIDADE DE ALGORITMOS - B,4,A,34,0,0,40,0,10:30; 10:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,MARIANA LUDERITZ KOLBERG FERNANDES
+,,,B,32,0,0,15,0,13:30; 13:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,MARIANA LUDERITZ KOLBERG FERNANDES
+INF01140,COMPUTADOR E SOCIEDADE,4,U,30,0,0,13,0,11:50,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,DANTE AUGUSTO COUTO BARONE
+INF01005,COMUNICAÇÃO DE DADOS,4,U,15,0,0,3,0,10:10; 10:10,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,GABRIEL LUCA NAZAR
+INF01185,CONCEPÇÃO DE CIRCUITOS INTEGRADOS I,4,U,3,0,0,2,0,15:30; 15:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,SERGIO BAMPI
+INF01194,CONCEPÇÃO DE CIRCUITOS INTEGRADOS II,4,U,1,0,0,0,0,13:30; 13:30,SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale,Claudio Machado Diniz
+INF01032,EMPREENDIMENTO EM INFORMÁTICA,4,A,21,0,0,18,0,11:50,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,ERIKA FERNANDES COTA
+,,,B,15,0,0,6,0,11:50,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,ALEXANDRE DA SILVA CARISSIMI
+INF01127,ENGENHARIA DE SOFTWARE N,4,A,19,0,0,22,0,10:30; 10:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale,LETICIA DOS SANTOS MACHADO
+,,,B,16,0,0,17,0,15:30; 15:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,LUCINÉIA HELOISA THOM
+MAT01167,EQUAÇÕES DIFERENCIAIS II,6,B1,1,0,0,0,0,10:30; 10:30; 10:30,s: Vale                    ; s: Vale                    ; s: Vale,MARIA CRISTINA VARRIALE
+INF01203,ESTRUTURAS DE DADOS,4,A,20,0,0,25,0,13:30; 13:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,VIVIANE PEREIRA MOREIRA
+,,,B,20,0,0,10,0,15:30; 15:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,VIVIANE PEREIRA MOREIRA
+,,,C,22,0,0,21,0,13:30; 13:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,RENATA DE MATOS GALANTE
+FIS01182,FÍSICA GERAL - ELETROMAGNETISMO,6,BB,0,0,2,0,0,10:10; 10:10; 10:10,Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale                    ; Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale                    ; Sala G213 do(a) Instituto de Matemática/Física - Salas de Aulas Teóricas - Campus: Vale,GILBERTO LIMA THOMAS
+INF05008,FUNDAMENTOS DE ALGORITMOS,4,A,16,14,0,21,14,10:30; 10:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,LUCIO MAURO DUARTE
+,,,B,26,3,1,28,3,10:30; 10:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,BRUNO IOCHINS GRISCI
+,,,C,14,11,0,16,11,10:10; 10:10,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,LEILA RIBEIRO
+INF01145,FUNDAMENTOS DE BANCO DE DADOS,4,A,26,0,0,27,0,10:10; 10:10,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale,KARIN BECKER
+,,,B,29,0,0,29,0,15:30; 15:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,RENATA DE MATOS GALANTE
+INF01047,FUNDAMENTOS DE COMPUTAÇÃO GRÁFICA,4,U,34,0,0,34,0,10:30; 10:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,EDUARDO SIMÕES LOPES GASTAL
+INF01046,FUNDAMENTOS DE PROCESSAMENTO DE IMAGENS,4,A,26,0,0,27,0,15:30; 15:30,sino 104 - 43413 - Campus: Vale                    ; sino 104 - 43413 - Campus: Vale,JACOB SCHARCANSKI
+,,,B,24,0,0,26,0,13:30; 13:30,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,MANUEL MENEZES DE OLIVEIRA NETO
+INF01209,FUNDAMENTOS DE TOLERÂNCIA A FALHAS,4,U,35,0,0,36,0,13:30; 13:30,AUDITÓRIO 0 - Campus: Vale                    ; sino 104 - 43413 - Campus: Vale,SERGIO LUIS CECHIN
+INF01030,FUNDAMENTOS DE VISÃO COMPUTACIONAL,4,U,25,0,0,8,0,10:10; 10:10,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,CLAUDIO ROSITO JUNG
+INF01015,GERÊNCIA E APLICAÇÕES EM REDES,4,U,15,0,0,3,0,15:30; 15:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,Juliano Araújo Wickboldt
+INF01048,INTELIGÊNCIA ARTIFICIAL,4,A,20,0,0,20,0,10:10; 10:10,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,Joel Luis Carbonera
+,,,B,20,0,0,13,0,13:30; 13:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,Joel Luis Carbonera
+INF05004,INTELIGÊNCIA ARTIFICIAL AVANÇADA,4,U,20,0,0,18,0,10:30; 10:30,Sala de Aula 108 - 43413 - Campus: Vale                    ; Sala de Aula 108 - 43413 - Campus: Vale,André Grahl Pereira
+INF01043,INTERAÇÃO HOMEM-COMPUTADOR,4,U,40,0,0,40,0,10:10; 10:10,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale,LUCIANA PORCHER NEDEL
+INF01107,INTRODUÇÃO À ARQUITETURA DE COMPUTADORES,4,A,5,8,4,15,8,13:30; 13:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,RENATO PEREZ RIBAS
+,,,B,13,0,0,3,0,15:30; 15:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,FERNANDA GUSMAO DE LIMA KASTENSMIDT
+,,,C,13,7,0,7,6,15:30; 15:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,Claudio Machado Diniz
+,,,D,4,16,0,7,16,13:30; 13:30,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,Mateus Grellert da Silva
+QUI99009,INTRODUÇÃO AO EMPREENDEDORISMO E INOVAÇÃO,4,A,1,0,0,1,0,11:50,"<li class=""obs"">Observação: a turma será ofertada no Campus do Vale</li>; <li class=""hor"">MAXIMILIANO SEGALA - Regente de 23/09/2024 a 18/01/2025</li><li class=""hor"">MICHELE OBERSON DE SOUZA - Ministrante de 23/09/2024 a 18/01/2025</li>",CRISTIANO KRUG
+,,,C,1,0,0,1,0,13:30,Sala 0104 F(ICE) do Prédio Centenário - Campus: Centro,DEBORA JUNG LUVIZETTO FACCIN
+,,,D,4,0,0,4,0,18:30,Sala 601 - Campus: Saúde,MAXIMILIANO SEGALA
+INF01022,LABORATÓRIO DE SISTEMA DE SOFTWARE,4,U,30,0,0,22,0,11:50,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,MARCELO SOARES PIMENTA
+EDU03071,LÍNGUA BRASILEIRA DE SINAIS (LIBRAS),2,K,4,0,0,9,0,18:30,SALA DE AULA - Campus: Centro,CRISTIAN ALEXANDRE STRACK
+INF05005,LINGUAGENS FORMAIS E AUTÔMATOS N,4,U,40,0,0,41,0,15:30; 15:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,LUCIO MAURO DUARTE
+INF05508,LÓGICA PARA COMPUTAÇÃO,4,A,24,0,0,25,0,10:30; 10:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,ROSA MARIA VICARI
+,,,B,24,0,0,16,0,15:30; 15:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,MARCIO DORN
+,,,C,20,0,0,14,0,10:10; 10:10,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,André Grahl Pereira
+MAT01375,MATEMÁTICA DISCRETA B,4,A,19,16,22,42,16,10:10; 10:10,Sala 103 - Campus: Vale                    ; Sala 103 - Campus: Vale,RICARDO MISTURINI
+,,,B,4,11,10,17,10,10:30; 10:30,Sala 103 - Campus: Vale                    ; Sala 103 - Campus: Vale,MARIA PAULA GONCALVES FACHIN
+INF01216,MODELAGEM E GERENCIAMENTO DE PROCESSOS DE NEGÓCIO,4,U,20,0,0,4,0,10:30; 10:30,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale,LUCINÉIA HELOISA THOM
+INF01121,MODELOS DE LINGUAGEM DE PROGRAMAÇÃO,4,U,35,0,0,31,0,15:30; 15:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,LEANDRO KRUG WIVES
+INF01113,ORGANIZAÇÃO DE COMPUTADORES B,4,A,30,0,0,25,0,10:10; 10:10,SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 116 - PRÉDIO 43425 - Campus: Vale,LUIGI CARRO
+,,,B,30,0,0,30,0,10:30; 10:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,GABRIEL LUCA NAZAR
+INF05010,OTIMIZAÇÃO COMBINATÓRIA,4,A,28,0,0,23,0,13:30; 13:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,MARCUS ROLF PETER RITT
+,,,B,28,0,0,30,0,10:30; 10:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,Henrique Becker
+MAT02219,PROBABILIDADE E ESTATÍSTICA,4,A1,15,0,0,14,0,10:10; 10:10,Sala 106 - Campus: Vale                    ; Sala 106 - Campus: Vale,DIEGO RAMOS CANTERLE
+,,,B1,8,0,0,9,0,10:30; 10:30,Sala 106 - Campus: Vale                    ; Sala 106 - Campus: Vale,"MÁRCIA HELENA BARBIAN - Regente de 23/09/2024 a 18/01/2025</li><li class=""hor"">MARKUS CHAGAS STEIN"
+,,,B2,5,0,3,8,0,10:30; 10:30,Sala 105 - Campus: Vale                    ; Sala 105 - Campus: Vale,CLEITON GUOLLO TAUFEMBACK
+,,,C1,15,0,0,4,0,13:30; 13:30,"sala de aula 044 - Campus: Centro<li class=""hor"">Quinta 13:30-15:10 2</li>sala de aula 044 - Campus: Centro; <li class=""hor"">MÁRCIA HELENA BARBIAN - Regente de 23/09/2024 a 18/01/2025</li>",DIEGO RAMOS CANTERLE
+,,,D1,10,0,0,8,0,15:30; 15:30,Sala 107 - Campus: Vale                    ; Sala 107 - Campus: Vale,"MÁRCIA HELENA BARBIAN - Regente de 23/09/2024 a 18/01/2025</li><li class=""hor"">MARCO ANTONIO GIACOMELLI"
+,,,F1,8,0,0,2,0,20:30; 20:30,"sala de aula 051 - Campus: Centro<li class=""hor"">Quinta 20:30-22:10 2</li>sala de aula 051 - Campus: Centro; <li class=""hor"">MARCO ANTONIO GIACOMELLI - Ministrante de 23/09/2024 a 18/01/2025 - Responsável conceito</li>","MÁRCIA HELENA BARBIAN - Regente de 23/09/2024 a 18/01/2025</li><li class=""hor"">MARCO ANTONIO GIACOMELLI"
+INF01008,PROGRAMAÇÃO DISTRIBUÍDA E PARALELA,4,U,18,0,0,19,0,10:30; 10:30,SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale,Arthur Francisco Lorenzon
+INF01006,PROJETO DE BANCO DE DADOS,4,U,30,0,0,29,0,15:30; 15:30,"<li class=""hor"">Quarta 15:30-17:10 2</li>; ",RENATA DE MATOS GALANTE
+INF01019,PROJETO EM COMPUTAÇÃO GRÁFICA,4,U,30,0,0,12,0,11:50,SALA DE AULA 112 - PRÉDIO 43425 - Campus: Vale,LUCIANA PORCHER NEDEL
+INF01154,REDES DE COMPUTADORES N,6,A,12,0,0,12,0,10:10; 10:10; 13:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; sino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale,"LUCIANO PASCHOAL GASPARY - Regente de 23/09/2024 a 18/01/2025 - Responsável conceito</li><li class=""hor"">VALTER ROESLER"
+,,,B,14,0,0,13,0,10:10; 10:10; 10:10,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; sino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale,"LUCIANO PASCHOAL GASPARY - Regente de 23/09/2024 a 18/01/2025 - Responsável conceito</li><li class=""hor"">VALTER ROESLER"
+,,,C,10,0,0,9,0,15:30; 15:30; 15:30,AUDITÓRIO 0 - Campus: Vale                    ; AUDITÓRIO 0 - Campus: Vale                    ; sino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale,"ALEXANDRE DA SILVA CARISSIMI - Regente de 23/09/2024 a 18/01/2025 - Responsável conceito</li><li class=""hor"">VALTER ROESLER"
+,,,D,10,0,0,14,0,15:30; 15:30; 10:30,AUDITÓRIO 0 - Campus: Vale                    ; AUDITÓRIO 0 - Campus: Vale                    ; sino (Hardware e Rede de Computadores - 105 - 43413 - Campus: Vale,"ALEXANDRE DA SILVA CARISSIMI - Regente de 23/09/2024 a 18/01/2025 - Responsável conceito</li><li class=""hor"">VALTER ROESLER"
+INF01045,SEGURANÇA EM SISTEMAS DE COMPUTAÇÃO,4,U,20,0,2,28,0,15:30; 15:30,SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 109 - PRÉDIO 43425 - Campus: Vale,Jeferson Campos Nobre
+INF05516,SEMÂNTICA FORMAL N,4,U,40,0,0,40,0,10:10; 10:10,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,ÁLVARO FREITAS MOREIRA
+INF01175,SISTEMAS DIGITAIS PARA COMPUTADORES A,4,U,6,0,0,8,0,10:30; 10:30,SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 102 - PRÉDIO 43425 - Campus: Vale,FERNANDA GUSMAO DE LIMA KASTENSMIDT
+INF01142,SISTEMAS OPERACIONAIS I N,4,A,25,0,0,17,0,13:30; 13:30,AUDITÓRIO 1 - Campus: Vale                    ; AUDITÓRIO 1 - Campus: Vale,NICOLAS BRUNO MAILLARD
+,,,B,20,0,0,21,0,13:30; 13:30,AUDITÓRIO 1 - Campus: Vale                    ; AUDITÓRIO 1 - Campus: Vale,NICOLAS BRUNO MAILLARD
+INF01151,SISTEMAS OPERACIONAIS II N,4,A,32,0,0,29,0,13:30; 13:30,SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale,ALBERTO EGON SCHAEFFER FILHO
+,,,B,15,0,0,13,0,13:30; 13:30,SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 113 - PRÉDIO 43425 - Campus: Vale,WEVERTON LUIS DA COSTA CORDEIRO
+INF01120,TÉCNICAS DE CONSTRUÇÃO DE PROGRAMAS,4,A,23,0,0,24,0,13:30; 13:30,SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 108 - PRÉDIO 43425 - Campus: Vale,Karina Kohl Silveira
+,,,B,20,0,0,22,0,10:10; 10:10,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,MARCELO SOARES PIMENTA
+INF01217,TENDÊNCIAS EM ENGENHARIA DE SOFTWARE,4,U,25,0,0,7,0,10:30; 10:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,Karina Kohl Silveira
+INF05501,TEORIA DA COMPUTAÇÃO N,4,A,24,0,0,24,0,13:30; 13:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,RODRIGO MACHADO
+,,,B,19,0,0,20,0,13:30; 13:30,SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 111 - PRÉDIO 43425 - Campus: Vale,RODRIGO MACHADO
+INF05512,TEORIA DOS GRAFOS E ANÁLISE COMBINATÓRIA,4,A,30,0,0,15,0,13:30; 13:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,EDSON PRESTES E SILVA JUNIOR
+,,,B,30,0,0,17,0,15:30; 15:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,Henrique Becker
+,,,C,35,0,0,38,0,13:30; 13:30,SALA DE AULA 107 - P. 43425 - Campus: Vale                    ; SALA DE AULA 107 - P. 43425 - Campus: Vale,BRUNO IOCHINS GRISCI
+INF01214,TESTE DE SOFTWARE,4,U,30,0,0,23,0,13:30; 13:30,Sala de Aula 106 -  43413 - Campus: Vale                    ; Sala de Aula 106 -  43413 - Campus: Vale,LETICIA DOS SANTOS MACHADO
+INF01054,TÓPICOS ESPECIAIS EM COMPUTAÇÃO VII,4,U,15,0,0,6,0,13:30,Sala de Aula 107 - 43413 - Campus: Vale,EDISON PIGNATON DE FREITAS
+INF01063,TÓPICOS ESPECIAIS EM COMPUTAÇÃO XII,4,U,20,0,0,1,0,10:30; 10:30,Sala de Aula 107 - 43413 - Campus: Vale                    ; Sala de Aula 107 - 43413 - Campus: Vale,LUIGI CARRO
+INF05016,TÓPICOS ESPECIAIS EM COMPUTAÇÃO XXI,4,A,5,0,0,3,0,10:30; 10:30,SALA DE VIDEOCONFERÊNCIA - Campus: Vale,LEILA RIBEIRO
+,,,B,5,0,0,2,0,10:30; 10:30,"<li class=""hor"">Quinta 10:30-12:10 2</li>; ",ERIKA FERNANDES COTA
+,,,C,5,0,0,2,0,10:30; 10:30,"<li class=""hor"">Quinta 10:30-12:10 2</li>; ",RENATA DE MATOS GALANTE
+INF01219,TÓPICOS ESPECIAIS EM COMPUTAÇÃO XXXIV,4,U,30,0,0,23,0,13:30; 13:30,Sala de Aula 108 - 43413 - Campus: Vale                    ; Sala de Aula 108 - 43413 - Campus: Vale,ANDERSON ROCHA TAVARES
+INF01221,TÓPICOS ESPECIAIS EM COMPUTAÇÃO XXXVI,4,U,30,0,10,40,0,10:30; 10:30,SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 114 - PRÉDIO 43425 - Campus: Vale,DENNIS GIOVANI BALREIRA
+INF01050,TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO I,4,U,15,0,0,8,0,15:30; 15:30,SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale                    ; SALA DE AULA 118 - PRÉDIO 43425 - Campus: Vale,MANUEL MENEZES DE OLIVEIRA NETO
