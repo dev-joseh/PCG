@@ -4,6 +4,7 @@ public class classSphere : MonoBehaviour
 {
     public string labelText;
     public Vector3 position;
+    private GameObject sphere;
 
     // Method to initialize the sphere with label and position
     public void Initialize(string labelText, Vector3 position)
@@ -22,7 +23,7 @@ public class classSphere : MonoBehaviour
     private void CreateSphere()
     {
         // Create the sphere
-        GameObject sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+        sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
         sphere.transform.position = position;
 
         // Create a new GameObject for the text label
@@ -40,5 +41,9 @@ public class classSphere : MonoBehaviour
 
         // Ensure the text label faces the camera
         textObject.transform.rotation = Camera.main.transform.rotation;
+    }
+
+    public void DestroySphere() {
+        Destroy(sphere);
     }
 }
