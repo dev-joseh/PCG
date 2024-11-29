@@ -13,5 +13,4 @@ MonoBehaviour:
   m_Name: GlobalData
   m_EditorClassIdentifier: 
   cadeirasAtivas: 
-  data: []
-  fileName: 
+  fileName: output.csv
