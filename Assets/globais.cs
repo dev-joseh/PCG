@@ -5,7 +5,6 @@ using System.IO;
 public class GlobalData : ScriptableObject
 {
     public int[] cadeirasAtivas;
-    public string[] data;
     public string fileName;
     private string[,] csvMatrix; // Matriz para armazenar o conteúdo do CSV
 
@@ -29,6 +28,14 @@ public class GlobalData : ScriptableObject
             for (int i = 0; i < rows; i++)
             {
                 string[] data = lines[i].Split(',');
+
+                // Se for algum novo horário da mesma turma
+                if(data[0] == "") {
+                    data[0] = csvMatrix[i-1,0];
+                    data[1] = csvMatrix[i-1,1];
+                    data[2] = csvMatrix[i-1,2];
+                }
+                    
                 for (int j = 0; j < columns; j++)
                 {
                     csvMatrix[i, j] = data[j];
